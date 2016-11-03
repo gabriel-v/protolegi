@@ -5,14 +5,6 @@ The original sites have no search engines and are hard to navigate.
 
 See it live at [legi.vij.ro](http://legi.vij.ro).
 
-# JSHacks
-
-This project participates in the JSHacks 2016 hackathon.
-
-This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable
-behavior to contact@jshacks.io.
-
 
 ## Documentation
 
@@ -44,12 +36,12 @@ Guides and the API reference are located in the
         scrapy crawl finante
         scrapy crawl afaceri_externe
 
-## Community
 
-You can ask questions and interact with the community in the following
-locations:
-- [`jshacks`](http://159.203.166.178) channel on Slack
+## Short History
 
+This project participated (and won a jury's prize) at the JSHacks 2016 hackathon.
+
+This initiative was [Alex Morega](https://github.com/mgax)'s suggestion for a hackathon project.
 
 ## License
 
